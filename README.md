@@ -9,4 +9,3 @@ In this repository, we have performed the end to end Exploratory Data Analysis, 
 
 ![Decision Cycle](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG)
 
-## 🔴 What are the different Churn Segments ?
